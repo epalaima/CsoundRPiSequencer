@@ -1,7 +1,16 @@
+<h2>CsoundRPiSequencer</h2>
 
 A DIY 4 step sequencer using Csound on the Raspberry Pi 0 by Emmett Palaima
 
 <h3>Hardware Instructions:</h3>
+
+1. Solder the headers onto the Raspberry Pi 0 and the pHat DAC. Use the Extra Tall Header for the pHAT DAC. Once these are soldered stack the pHAT DAC on Top of the Raspberry Pi 0. 
+2. Drill holes in your chosen enclosure for jacks, pots, leds, and toggles. 
+3. Solder the MCP3008 and LEDs into the perf board. MCP3008 goes on the top side, LEDs on bottom. Be sure to orient the board in such a way that the LEDs sit over the holes you drilled for them. 
+4. Screw all jacks, pots and switches into the holes you drilled.
+5. Add wiring according to the included schematic.
+6. Secure Battery with Tape.
+
 
 <h3>Software Instructions:</h3>
 <h4>Short Version</h4>
