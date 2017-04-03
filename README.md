@@ -1,7 +1,18 @@
 
 A DIY 4 step sequencer using Csound on the Raspberry Pi 0 by Emmett Palaima
 
-<h3>Instructions:</h3>
+<h3>Hardware Instructions:</h3>
+
+<h3>Software Instructions:</h3>
+<h4>Short Version</h4>
+
+Download the Raspbian Image I've included under releases () and burn it to an 8GB Micro SD Card by following the instructions on the Raspberry Pi foundation website: https://www.raspberrypi.org/documentation/installation/installing-images/README.md
+
+Assuming the hardware is setup correctly this will be plug and play!
+
+<h4>Long Version</h4>
+
+Coming soon...
 
 <h3>Parts + Cost List:</h3>
 
