@@ -1,11 +1,10 @@
 
-A DIY 4 step sequencer using Csound on the Raspberry Pi 0
-by Emmett Palaima
+A DIY 4 step sequencer using Csound on the Raspberry Pi 0 by Emmett Palaima
 
-Instructions:
+<h3>Instructions:</h3>
 
+<h3>Parts + Cost List:</h3>
 
-Parts + Cost List:
 -Raspberry Pi 0: https://www.adafruit.com/?q=raspberry%20pi%200&
 
 1 x $10.00
